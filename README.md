@@ -1,2 +1,0 @@
-# vehicleICT
-szakdoga
